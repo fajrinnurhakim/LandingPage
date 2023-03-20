@@ -857,7 +857,6 @@ header .navbar ul li a:hover {
   color: rgba(22, 22, 22, 1);
   background: rgba(245, 197, 24, 1);
   font-weight: 700;
-  border: 2px solid #fff;
   box-shadow: 0px 5px 10px rgba(37, 37, 37, 1);
   text-align: center;
 }
