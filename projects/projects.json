@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Meows App Flutter",
+    "desc": "Aplikasi Informasi Tentang Kucing, menggunakan database Firebase dengan bahasa pemrograman dart framework flutter",
+    "image": "MEOWS.png",
+    "category": "Android",
+    "links": {
+      "code": "https://github.com/fajrinnurhakim/flutter-meows-app"
+    }
+  },
+  {
+    "name": "ITTP News Flutter",
+    "desc": "Aplikasi Berita seputar Kampus ITTP yang dapat dibaca oleh user, menggunakan bahasa dart framework Flutter dengan database Firebase.",
+    "image": "ITTP.png",
+    "category": "Android",
+    "links": {
+      "code": "https://github.com/fajrinnurhakim/flutter-Aplikasi-berita"
+    }
+  },
+  {
+    "name": "Cexplore Ticket Bootstrap",
+    "desc": "website tentang pemesanan tiket wisata, dengan menggunakan Framework Bootsrap dan Ajax didalamnya dan database Mysql.",
+    "image": "CEXPLORE.png",
+    "category": "website",
+    "links": {
+      "code": "https://github.com/fajrinnurhakim/cexplore-booking-tourist-tickets"
+    }
+  },
+  {
+    "name": "Puri PHP",
+    "desc": "Website penyampaian aspirasi dengan Fungsi CRUD menggunakan HTML, CSS, PHP.",
+    "image": "PURI.png",
+    "category": "website",
+    "links": {
+      "code": "https://github.com/fajrinnurhakim/Puri-community-complaints"
+    }
+  },
+  {
+    "name": "UCA Flutter",
+    "desc": "Aplikasi Konversi satuan menggunakan framework Flutter",
+    "image": "UCA.png",
+    "category": "Android",
+    "links": {
+      "code": "https://github.com/fajrinnurhakim/UCA-Applikasi-Konversi-satuan"
+    }
+  }
+]
