@@ -284,7 +284,7 @@ header .navbar ul li a:hover {
   padding: 1.6rem 3rem;
   border-radius: 12px;
   transition: 0.5s;
-  color: rgba(255, 255, 255, 1);
+  color: rgba(22, 22, 22, 1);
   background: rgba(245, 197, 24, 1);
   font-family: "Nunito", sans-serif;
 }
@@ -331,7 +331,7 @@ header .navbar ul li a:hover {
   font-size: 2rem;
   display: inline-block;
   line-height: 44px;
-  color: rgba(255, 255, 255, 1);
+  color: rgba(22, 22, 22, 1);
   background-color: rgba(245, 197, 24, 1);
   width: 44px;
   height: 44px;
@@ -477,7 +477,7 @@ header .navbar ul li a:hover {
   padding: 1.7rem 3rem;
   border-radius: 0.5em;
   transition: 0.3s;
-  color: rgba(255, 255, 255, 1);
+  color: rgba(22, 22, 22, 1);
   background: rgba(245, 197, 24, 1);
   font-family: "Nunito", sans-serif;
 }
@@ -854,7 +854,8 @@ header .navbar ul li a:hover {
   padding: 1.6rem 3rem;
   border-radius: 0.5em;
   transition: 0.5s;
-  color: rgb(255, 255, 255);
+  color: rgba(22, 22, 22, 1);
+  background: rgba(245, 197, 24, 1);
   font-weight: 700;
   border: 2px solid #fff;
   box-shadow: 0px 5px 10px rgba(37, 37, 37, 1);
@@ -893,6 +894,7 @@ header .navbar ul li a:hover {
   position: relative;
   max-width: 1200px;
   margin: 0 auto;
+  margin-bottom : 24px;
 }
 
 .experience .timeline::after {
